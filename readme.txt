@@ -1,2 +1,0 @@
-reset soft//..
-alteração master
